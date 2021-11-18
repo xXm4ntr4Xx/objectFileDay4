@@ -7,4 +7,5 @@ let person = {
       console.log("Ben loves chocolate")
   }else{
       console.log("Ben hates chocolate")
-  }
+  } 
+  
