@@ -7,4 +7,4 @@ let bensPhrases = {
 };
 
 desiredPleasantry= "Welcome"
-console.log(`${bensPhrases.greeting} ${desiredPleasantry}`)
+console.log(`${bensPhrases.greeting} ${desiredPleasantry}`);
