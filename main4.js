@@ -5,3 +5,5 @@ let person = {
   };
   
   person.isBootcamper = true;
+
+  
