@@ -1,7 +1,7 @@
 const myCat = {
     color: "black",
     name: "Tony",
-    lovesCuddles: true,
+    lovesCuddles: false,
 };
 
 const house = {
