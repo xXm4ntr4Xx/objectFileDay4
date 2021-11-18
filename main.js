@@ -6,7 +6,7 @@ const myCat = {
 
 const house = {
     stories: 2,
-    isParking:false,
+    isParking:true,
     bedrooms:2,
     isGarden:true,
     energyRating: "D"
